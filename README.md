@@ -8,3 +8,4 @@ Set 1 :
       2. Minimum sum partition (https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1)
       3. Perfect Sum Problem (https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1)
       4. Subset Sum Problem (https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/)
+      5. Target Sum Problem (https://practice.geeksforgeeks.org/problems/target-sum-1626326450/1/)
