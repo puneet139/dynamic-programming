@@ -16,3 +16,7 @@ Set 2 :
       
       1. Bounded Knapsack (0/1 Knapsack) (https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
       2. Unbounded Knapsack (https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)
+
+Week 2 Problems -:
+     
+      1. Edit Distance (https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
