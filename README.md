@@ -20,3 +20,7 @@ Set 2 :
 Week 2 Problems -:
      
       1. Edit Distance (https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
+
+Week 3 Problems -:
+
+      1. Coin Change (https://practice.geeksforgeeks.org/problems/coin-change2448/1#)
