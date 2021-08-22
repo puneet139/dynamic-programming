@@ -24,3 +24,5 @@ Week 2 Problems -:
 Week 3 Problems -:
 
       1. Coin Change (https://practice.geeksforgeeks.org/problems/coin-change2448/1#)
+      2. Combination Coefficient (https://practice.geeksforgeeks.org/problems/ncr1019/1)
+      3. Permutation Coefficient
